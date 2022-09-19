@@ -21,8 +21,7 @@ permalink: LINKS/
 ## W01
 1. [Git Tutorial](https://www.tutorialspoint.com/git/index.htm)<br>
     This link helps me to learn many Git commands. It really helps me as a beginner.
-<br>
-1. [Linux Commands](https://www.javatpoint.com/linux-commands)<br>
+2. [Linux Commands](https://www.javatpoint.com/linux-commands)<br>
     This link helps me to learn many Linux commands. It really helps me as a beginner. It really helps me to complete my assignments.
 
 ## W02
