@@ -16,12 +16,10 @@ permalink: LINKS/
 ## W02
 1. [Khan Academy : Cryptography](https://www.khanacademy.org/computing/computer-science/cryptography)<br>
     This link introduces me into many concepts of Cryptography. The video is pretty useful for me to give brief explanation into Crypthography as a beginner.
- <br>
  
 ## W03
 1. [Learning Linux Filesystem](https://www.youtube.com/watch?v=HIXzJ3Rz9po)<br>
     This video gave me much new insights about linux filesystem. The explanation is quite simple for me as an beginner.
- <br>
  
 ## W04
 1. [C Crash Course](http://www.mattababy.org/~belmonte/Teaching/CCC/CrashCourseC.html) <br>
