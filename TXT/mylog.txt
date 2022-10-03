@@ -24,3 +24,12 @@ ZCZC W03 100 L11 Assignment #03
 ZCZC W03 30 L03 GitHub and git related
 ZCZC W03 10 L41 TXT/mylog.txt related.
 ZCZC W03 20 L32 YouTube: OS related topics
+ZCZC W04 90 L11 Assignment #04
+ZCZC W04 20 L32 YouTube: OS related topics
+ZCZC W04 60 L01 SCELE/Discord related
+ZCZC W04 30 L03 GitHub and git related
+ZCZC W04 10 L41 TXT/mylog.txt related.
+ZCZC W04  5 L05 QUIZ
+ZCZC W04  3 L05 QUIZ
+ZCZC W04 45 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W04 90 L09 Weekly Assignments
