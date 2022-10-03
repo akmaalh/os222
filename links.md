@@ -24,8 +24,8 @@ permalink: LINKS/
  <br>
  
 ## W04
-1. [C Crash Course] (http://www.mattababy.org/~belmonte/Teaching/CCC/CrashCourseC.html) <br>
+1. [C Crash Course](http://www.mattababy.org/~belmonte/Teaching/CCC/CrashCourseC.html) <br>
     This link is contained documentation-alike for C datatypes and syntax. It much simpler because it has some example of the programs.
     <br>
-2. [Paging, segmentation and virtual memory] (https://www.youtube.com/watch?v=O4nwUqQodAg) <br>
+2. [Paging, segmentation and virtual memory](https://www.youtube.com/watch?v=O4nwUqQodAg) <br>
     This video gave simple introduction and visualization about virtual memory
