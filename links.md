@@ -28,7 +28,7 @@ permalink: LINKS/
 2. [Paging, segmentation and virtual memory](https://www.youtube.com/watch?v=O4nwUqQodAg) <br>
     This video gave simple introduction and visualization about virtual memory
     
-## W04
+## W05
 1. [Linux Virtual Memory](https://www.makeuseof.com/virtual-memory-on-linux/) <br>
     This link is contained brief introduction into virtual memory. This article is quite simple for me as a begineer.
     <br>
