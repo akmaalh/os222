@@ -27,3 +27,10 @@ permalink: LINKS/
     <br>
 2. [Paging, segmentation and virtual memory](https://www.youtube.com/watch?v=O4nwUqQodAg) <br>
     This video gave simple introduction and visualization about virtual memory
+    
+## W04
+1. [Linux Virtual Memory](https://www.makeuseof.com/virtual-memory-on-linux/) <br>
+    This link is contained brief introduction into virtual memory. This article is quite simple for me as a begineer.
+    <br>
+2. [Makefile Tutorial](https://makefiletutorial.com/) <br>
+    This link is contained documentation-alike for C Makefile. It much simpler because it has some example of the programs.
