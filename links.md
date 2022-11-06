@@ -34,3 +34,10 @@ permalink: LINKS/
     <br>
 2. [Makefile Tutorial](https://makefiletutorial.com/) <br>
     This link is contained documentation-alike for C Makefile. It much simpler because it has some example of the programs.
+    
+## W06
+1. [Fork() in C](https://www.geeksforgeeks.org/fork-system-call/) <br>
+    I learned the basic fork() in this link becase it is quite simple for me and it gives some of code output
+    <br>
+2. [Understanding Fork in Operating Systems](https://www.youtube.com/watch?v=PwxTbksJ2fo) <br>
+    this video gives me brief explanation about Fork().
