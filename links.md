@@ -41,3 +41,6 @@ permalink: LINKS/
     <br>
 2. [Understanding Fork in Operating Systems](https://www.youtube.com/watch?v=PwxTbksJ2fo) <br>
     this video gives me brief explanation about Fork().
+## W07
+1. [Intro to Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/) <br>
+	This website explains about synchronization process in OS in a simpler way. Visualization they made also helps me to understand the concepts.
