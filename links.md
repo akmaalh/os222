@@ -44,3 +44,6 @@ permalink: LINKS/
 ## W07
 1. [Intro to Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/) <br>
 	This website explains about synchronization process in OS in a simpler way. Visualization they made also helps me to understand the concepts.
+## W08
+1. [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/11.2/) <br>
+	This site gave detail step-by-step explanation to build linux from scratch
