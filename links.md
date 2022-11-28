@@ -47,3 +47,6 @@ permalink: LINKS/
 ## W08
 1. [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/11.2/) <br>
 	This site gave detail step-by-step explanation to build linux from scratch
+## W09
+1. [Important Directories](http://www.dba-oracle.com/linux/important_files_directories.htm)
+	List of linux important files and directories
