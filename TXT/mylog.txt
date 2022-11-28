@@ -73,3 +73,12 @@ ZCZC W08 60 L01 SCELE/Discord related
 ZCZC W08 40 L03 GitHub and git related
 ZCZC W08 15 L41 TXT/mylog.txt related.
 ZCZC W08 60 L64 Helping a friend on OS Assignment #08
+ZCZC W09 100 L02 ZOOM meetings related
+ZCZC W09 120 L05 Quiz & Studying
+ZCZC W09 45 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W09 90 L11 Assignment #09
+ZCZC W09 20 L32 YouTube: OS related topics
+ZCZC W09 60 L01 SCELE/Discord related
+ZCZC W09 30 L03 GitHub and git related
+ZCZC W09 10 L41 TXT/mylog.txt related.
+ZCZC W09 120 L64 Helping a friend on OS Assignment #09
